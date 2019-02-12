@@ -72,6 +72,8 @@ public class Program {
 
     static List<Integer> factors(int a){
 
+
+
         return Arrays.asList(3,5,7,a);
 
     }
